@@ -1,4 +1,6 @@
-# Omarchy CRT
+# fk-omarchy-site-crt
+
+> Forked from omacom/omarchy-site-crt (MIT). See `SIGMAOS_FORK.md`.
 
 A CRT boot experiment, live at [crt.omarchy.org](https://crt.omarchy.org).
 An old green-phosphor monitor powers on, runs POST, laser-etches the Omarchy
