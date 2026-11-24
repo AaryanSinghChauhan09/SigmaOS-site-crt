@@ -23,3 +23,8 @@ Then open http://localhost:8765.
 
 Pushes to `master` deploy to [crt.omarchy.org](https://crt.omarchy.org) via
 GitHub Pages (see `.github/workflows/pages.yml`).
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-site-crt) - Full Wiki documentation for all SigmaOS components
