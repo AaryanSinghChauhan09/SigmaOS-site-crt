@@ -1,11 +1,11 @@
-# fk-omarchy-site-crt
+# SigmaOS site-crt
 
 > Forked from AaryanSinghChauhan09/SigmaOS-site-crt (MIT). See `SIGMAOS_FORK.md`.
 
-A CRT boot experiment, live at [crt.omarchy.org](https://crt.omarchy.org).
+A CRT boot experiment, live at [crt.sigmaos.org](https://crt.sigmaos.org).
 An old green-phosphor monitor powers on, runs POST, laser-etches the SigmaOS
 logo, and drops you into a terminal with the essentials from
-[omarchy.org](https://omarchy.org). Press any key (or click) to boot.
+[sigmaos.org](https://sigmaos.org). Press any key (or click) to boot.
 
 Made by [Eric Carmichael](https://github.com/ckcollab)
 
@@ -21,7 +21,7 @@ Then open http://localhost:8765.
 
 ## Deploying
 
-Pushes to `master` deploy to [crt.omarchy.org](https://crt.omarchy.org) via
+Pushes to `master` deploy to [crt.sigmaos.org](https://crt.sigmaos.org) via
 GitHub Pages (see `.github/workflows/pages.yml`).
 ## Documentation
 
