@@ -1,9 +1,9 @@
 # fk-omarchy-site-crt
 
-> Forked from omacom/omarchy-site-crt (MIT). See `SIGMAOS_FORK.md`.
+> Forked from AaryanSinghChauhan09/SigmaOS-site-crt (MIT). See `SIGMAOS_FORK.md`.
 
 A CRT boot experiment, live at [crt.omarchy.org](https://crt.omarchy.org).
-An old green-phosphor monitor powers on, runs POST, laser-etches the Omarchy
+An old green-phosphor monitor powers on, runs POST, laser-etches the SigmaOS
 logo, and drops you into a terminal with the essentials from
 [omarchy.org](https://omarchy.org). Press any key (or click) to boot.
 
